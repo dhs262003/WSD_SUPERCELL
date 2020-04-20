@@ -11,7 +11,7 @@ function clicked() {
 		if(pass.value == corpass) {
 		
 			window.alert("You are logged in as " + user.value);
-			window.open("../Project/supercell.html");
+			window.open("../Project/index.html");
 		
 		} else {
 		
